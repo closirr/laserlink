@@ -370,7 +370,7 @@ const UI = {
   showLose(game) {
     this.el["lose-sub"].textContent = game.endless
       ? `You survived ${game.wave} waves. Best: ${Save.data.endlessBest}.`
-      : `The swarm broke through on wave ${game.wave}.`;
+      : `The swarm broke through on wave ${Math.max(1, game.wave)}.`;
     this.showScreen("lose");
   },
 };

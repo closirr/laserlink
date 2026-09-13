@@ -1,0 +1,23 @@
+{
+  "name": "laserlink",
+  "version": "1.0.0",
+  "description": "A neon tower-defense web game with a unique twist: **chainable laser amplifiers**. Place Prisms that beam energy into your Laser Turrets — each Prism in a chain multiplies the laser's damage. Build Prism → Prism → Laser chains to forge piercing superweapons, maze the swarm with walls, and expand your power grid to distant crystals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/closirr/laserlink.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/closirr/laserlink/issues"
+  },
+  "homepage": "https://github.com/closirr/laserlink#readme",
+  "dependencies": {
+    "playwright": "^1.60.0"
+  }
+}

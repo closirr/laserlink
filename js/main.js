@@ -134,3 +134,12 @@ window.render_game_to_text = () => {
 
 App.start();
 window.LL = { App, UI, Save, Snd, TOWERS, ENEMIES, LEVELS, ENDLESS, Game, CFG, Bot };
+
+// deep link for tests/sharing: ?level=N starts a level immediately
+(() => {
+  const qp = new URLSearchParams(location.search);
+  if (qp.has("level")) {
+    const n = parseInt(qp.get("level"), 10);
+    App.startLevel(Number.isFinite(n) ? n : 0);
+  }
+})();
