@@ -1,0 +1,212 @@
+[
+  {
+    "levelIdx": 0,
+    "name": "First Contact",
+    "outcome": "won",
+    "wave": 4,
+    "corePct": 82,
+    "kills": 60,
+    "simT": 159,
+    "towers": 6
+  },
+  {
+    "levelIdx": 1,
+    "name": "Crystal Fields",
+    "outcome": "won",
+    "wave": 4,
+    "corePct": 100,
+    "kills": 74,
+    "simT": 139,
+    "towers": 13
+  },
+  {
+    "levelIdx": 2,
+    "name": "Prism Valley",
+    "outcome": "won",
+    "wave": 4,
+    "corePct": 100,
+    "kills": 81,
+    "simT": 151,
+    "towers": 15
+  },
+  {
+    "levelIdx": 3,
+    "name": "Long Way Round",
+    "outcome": "won",
+    "wave": 6,
+    "corePct": 60,
+    "kills": 151,
+    "simT": 256,
+    "towers": 30
+  },
+  {
+    "levelIdx": 4,
+    "name": "Cold Front",
+    "outcome": "lost",
+    "wave": 5,
+    "corePct": 0,
+    "kills": 109,
+    "simT": 204,
+    "towers": 20
+  },
+  {
+    "levelIdx": 5,
+    "name": "The Gauntlet",
+    "outcome": "won",
+    "wave": 6,
+    "corePct": 55,
+    "kills": 177,
+    "simT": 295,
+    "towers": 30
+  },
+  {
+    "levelIdx": 6,
+    "name": "Impact Zone",
+    "outcome": "won",
+    "wave": 7,
+    "corePct": 100,
+    "kills": 274,
+    "simT": 358,
+    "towers": 25
+  },
+  {
+    "levelIdx": 7,
+    "name": "Crossfire",
+    "outcome": "won",
+    "wave": 7,
+    "corePct": 100,
+    "kills": 242,
+    "simT": 338,
+    "towers": 22
+  },
+  {
+    "levelIdx": 8,
+    "name": "Twin Fangs",
+    "outcome": "won",
+    "wave": 8,
+    "corePct": 100,
+    "kills": 396,
+    "simT": 408,
+    "towers": 25
+  },
+  {
+    "levelIdx": 9,
+    "name": "The Maw",
+    "outcome": "won",
+    "wave": 8,
+    "corePct": 100,
+    "kills": 370,
+    "simT": 434,
+    "towers": 30
+  },
+  {
+    "levelIdx": 10,
+    "name": "Serpentine",
+    "outcome": "wave",
+    "wave": 1,
+    "corePct": 100,
+    "kills": 9,
+    "simT": 1100,
+    "towers": 22
+  },
+  {
+    "levelIdx": 11,
+    "name": "Pincer",
+    "outcome": "won",
+    "wave": 8,
+    "corePct": 69,
+    "kills": 361,
+    "simT": 441,
+    "towers": 33
+  },
+  {
+    "levelIdx": 12,
+    "name": "Crossroads",
+    "outcome": "won",
+    "wave": 8,
+    "corePct": 100,
+    "kills": 360,
+    "simT": 486,
+    "towers": 34
+  },
+  {
+    "levelIdx": 13,
+    "name": "Deadlock",
+    "outcome": "won",
+    "wave": 8,
+    "corePct": 64,
+    "kills": 394,
+    "simT": 469,
+    "towers": 27
+  },
+  {
+    "levelIdx": 14,
+    "name": "Triad",
+    "outcome": "won",
+    "wave": 9,
+    "corePct": 71,
+    "kills": 541,
+    "simT": 551,
+    "towers": 22
+  },
+  {
+    "levelIdx": 15,
+    "name": "Iron Labyrinth",
+    "outcome": "won",
+    "wave": 9,
+    "corePct": 100,
+    "kills": 553,
+    "simT": 643,
+    "towers": 21
+  },
+  {
+    "levelIdx": 16,
+    "name": "Storm Gates",
+    "outcome": "won",
+    "wave": 9,
+    "corePct": 100,
+    "kills": 569,
+    "simT": 596,
+    "towers": 31
+  },
+  {
+    "levelIdx": 17,
+    "name": "The Web",
+    "outcome": "won",
+    "wave": 9,
+    "corePct": 100,
+    "kills": 572,
+    "simT": 596,
+    "towers": 28
+  },
+  {
+    "levelIdx": 18,
+    "name": "Last Bastion",
+    "outcome": "won",
+    "wave": 9,
+    "corePct": 100,
+    "kills": 605,
+    "simT": 561,
+    "towers": 39
+  },
+  {
+    "levelIdx": 19,
+    "name": "Heart of the Swarm",
+    "outcome": "won",
+    "wave": 10,
+    "corePct": 100,
+    "kills": 650,
+    "simT": 626,
+    "towers": 34
+  },
+  {
+    "levelIdx": -1,
+    "name": "Endless Arena",
+    "outcome": "wave",
+    "wave": 15,
+    "corePct": 100,
+    "kills": 1089,
+    "simT": 900,
+    "towers": 33
+  }
+]
