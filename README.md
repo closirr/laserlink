@@ -8,7 +8,7 @@ maze the swarm with walls, and expand your power grid to distant crystals.
 Inspired by *Harvest: Massive Encounter* (energy economy + laser defenses) and classic
 maze tower defense.
 
-**Play:** https://closirr.github.io/laserlink/ (or open `index.html` via any static server)
+**Play:** https://laserlink-dev.itch.io/laserlink — or https://closirr.github.io/laserlink/
 
 ## Features
 - 20 hand-crafted campaign levels + Endless Arena
